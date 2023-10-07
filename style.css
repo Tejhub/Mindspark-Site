@@ -235,7 +235,7 @@ header .search-bar-container label:hover{
 }
 
 .home{
-  min-height: 100vh;
+  min-height: 88vh;
   display: flex;
   align-items: center;
   justify-content: center;
